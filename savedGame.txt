@@ -1,0 +1,9 @@
+Name:  Kenny
+Level: 7
+Health: 70
+Attack: 7
+Defense: 7
+Speed: 7
+XP: 0
+XPT: 28
+ID: 1
